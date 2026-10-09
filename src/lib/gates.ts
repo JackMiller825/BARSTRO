@@ -65,7 +65,7 @@ export function isSafeHttpsUrl(value: string | null): value is string {
 }
 
 export function canCopyAddress(config: ProjectConfig): boolean {
-  return config.launchConfirmed === true && isValidEthAddress(config.contractAddress);
+  return isValidEthAddress(config.contractAddress);
 }
 
 export function visibleContractAddress(config: ProjectConfig): string | null {

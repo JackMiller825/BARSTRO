@@ -1,6 +1,5 @@
 import { BuyingSteps } from '../components/BuyingSteps.tsx';
 import { Checklist } from '../components/Checklist.tsx';
-import { FAQ } from '../components/FAQ.tsx';
 import { SiteImage } from '../components/SiteImage.tsx';
 import { SpaceBackdrop } from '../components/SpaceBackdrop.tsx';
 import { TokenInfo } from '../components/TokenInfo.tsx';
@@ -35,9 +34,8 @@ export default function Buy() {
         </div>
       </section>
       <TokenInfo cta="steps" />
-      <BuyingSteps cta="swap" />
+      <BuyingSteps />
       <Checklist />
-      <FAQ />
     </>
   );
 }

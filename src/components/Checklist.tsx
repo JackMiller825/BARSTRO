@@ -1,6 +1,5 @@
 import { useState } from 'react';
 import { checklistItems, alts } from '../content/website.ts';
-import { SwapControl } from './BuyingSteps.tsx';
 import { SiteImage } from './SiteImage.tsx';
 
 export function Checklist() {
@@ -29,12 +28,6 @@ export function Checklist() {
                 <span>{item}</span>
               </label>
             ))}
-          </div>
-          <div className="actions section-cta">
-            <SwapControl
-              id="swap-checklist-note"
-              note="Checklist boxes never enable this button. It turns on only after launch, contract and swap details are confirmed."
-            />
           </div>
         </div>
         <SiteImage

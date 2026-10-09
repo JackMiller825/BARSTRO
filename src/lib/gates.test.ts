@@ -39,10 +39,10 @@ describe('address and trading gates', () => {
     assert.equal(isValidEthAddress('0x0000000000000000000000000000000000000000'), true);
   });
 
-  it('copies an address only after launch confirmation', () => {
-    assert.equal(canCopyAddress({ ...project, launchConfirmed: false, contractAddress: validAddress }), false);
+  it('copies a valid address while launch details can stay pending', () => {
+    assert.equal(canCopyAddress({ ...project, launchConfirmed: false, contractAddress: validAddress }), true);
     assert.equal(canCopyAddress({ ...project, launchConfirmed: true, contractAddress: null }), false);
-    assert.equal(canCopyAddress({ ...project, launchConfirmed: true, contractAddress: validAddress }), true);
+    assert.equal(canCopyAddress({ ...project, launchConfirmed: false, contractAddress: null }), false);
     assert.equal(visibleContractAddress({ ...project, contractAddress: validAddress }), validAddress);
     assert.equal(visibleContractAddress({ ...project, contractAddress: 'not-an-address' }), null);
   });
@@ -80,8 +80,13 @@ describe('shipped configuration', () => {
     assert.equal(project.contractAddress, null);
     assert.equal(canCopyAddress(project), false);
     assert.equal(canTrade(project), false);
-    assert.equal(safeUrl(project.officialXUrl), null);
-    assert.equal(safeUrl(project.officialTelegramUrl), null);
+    assert.equal(project.totalSupply, '1,000,000,000');
+    assert.equal(displayFact(project.buyTax), '0%');
+    assert.equal(displayFact(project.sellTax), '0%');
+    assert.equal(displayFact(project.liquidityStatus), 'Burn');
+    assert.equal(displayFact(project.ownershipStatus), 'Renounce');
+    assert.equal(safeUrl(project.officialXUrl), 'https://x.com/bastro_eth');
+    assert.equal(safeUrl(project.officialTelegramUrl), 'https://t.me/Barstro');
     assert.equal(safeUrl(project.officialSwapUrl), null);
     assert.equal(safeUrl(project.officialChartUrl), null);
     assert.equal(safeUrl(project.officialExplorerUrl), null);

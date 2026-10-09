@@ -32,47 +32,6 @@ export const pageMeta = {
   },
 } as const;
 
-export const faqs = [
-  {
-    question: "What's the joke?",
-    answer:
-      'Signal bars + astronaut. Barstronaut thinks your missing reception escaped into orbit. His rescue mission is fiction; the everyday frustration is familiar.',
-  },
-  {
-    question: 'Where is the contract?',
-    answer:
-      'The official contract address has not been supplied. We will show it here when confirmed. Do not buy a token by its name alone.',
-  },
-  {
-    question: 'Are token details final?',
-    answer:
-      'No. Supply, tax, liquidity and ownership details are pending. Read the confirmed information before making a decision.',
-  },
-  {
-    question: 'Is this official?',
-    answer:
-      'Barstronaut is an independent fictional project. It is not affiliated with or endorsed by SpaceX, Starlink, Elon Musk or a space agency.',
-  },
-  {
-    question: 'Does this token improve my phone signal?',
-    answer: 'No. The signal rescue is a joke, not a telecommunications service.',
-  },
-  {
-    question: 'Do I need to buy to join?',
-    answer: 'No. You can enjoy the story, make memes and join the community without owning tokens.',
-  },
-  {
-    question: 'What are the risks?',
-    answer:
-      'A meme token can lose its entire value. Liquidity, contract behavior and transaction fees also matter. The artwork and community do not guarantee financial results.',
-  },
-  {
-    question: 'What is gas?',
-    answer:
-      'Gas is the network transaction fee, paid in ETH on Ethereum. Keep some ETH for fees; do not spend your full balance on a swap.',
-  },
-] as const;
-
 export const buyingSteps = [
   {
     title: 'Set up a wallet.',

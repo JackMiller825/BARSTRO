@@ -1,7 +1,6 @@
 import { Link } from 'react-router-dom';
 import { BuyingSteps } from '../components/BuyingSteps.tsx';
 import { CommunityHub } from '../components/CommunityHub.tsx';
-import { FAQ } from '../components/FAQ.tsx';
 import { SignalRescue } from '../components/SignalRescue.tsx';
 import { SiteImage } from '../components/SiteImage.tsx';
 import { SpaceBackdrop } from '../components/SpaceBackdrop.tsx';
@@ -62,7 +61,6 @@ export default function Home() {
       <TokenInfo cta="guide" />
       <BuyingSteps cta="guide" />
       <CommunityHub mode="link" />
-      <FAQ />
     </>
   );
 }

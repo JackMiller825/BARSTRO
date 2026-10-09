@@ -16,10 +16,7 @@ export function useCopyFeedback(successLabel: string, failureLabel: string) {
       timer.current = null;
     }
     try {
-      if (!window.isSecureContext || typeof navigator.clipboard?.writeText !== 'function') {
-        throw new Error('Clipboard unavailable');
-      }
-      await navigator.clipboard.writeText(text);
+      await writeText(text);
       setStatus(successLabel);
       timer.current = window.setTimeout(() => {
         setStatus('');
@@ -31,4 +28,21 @@ export function useCopyFeedback(successLabel: string, failureLabel: string) {
   }
 
   return { status, copy };
+}
+
+async function writeText(text: string) {
+  if (window.isSecureContext && typeof navigator.clipboard?.writeText === 'function') {
+    await navigator.clipboard.writeText(text);
+    return;
+  }
+  const area = document.createElement('textarea');
+  area.value = text;
+  area.setAttribute('readonly', '');
+  area.style.position = 'fixed';
+  area.style.left = '-9999px';
+  document.body.append(area);
+  area.select();
+  const copied = document.execCommand('copy');
+  area.remove();
+  if (!copied) throw new Error('Clipboard unavailable');
 }
