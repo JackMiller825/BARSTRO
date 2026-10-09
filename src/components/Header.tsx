@@ -1,6 +1,5 @@
 import { useEffect, useId, useRef, useState } from 'react';
 import { NavLink, Link, useLocation } from 'react-router-dom';
-import { project } from '../config/project.ts';
 import { navItems } from '../content/website.ts';
 import { Icon } from './Icon.tsx';
 import { SiteImage } from './SiteImage.tsx';
@@ -11,7 +10,6 @@ export function Header() {
   const menuId = useId();
   const { pathname } = useLocation();
   const open = openPath === pathname;
-  const status = project.launchConfirmed ? 'Launch details confirmed' : 'Launch details pending';
 
   useEffect(() => {
     if (!open) return;
@@ -61,7 +59,6 @@ export function Header() {
           <Icon name={open ? 'close' : 'menu'} />
         </button>
       </div>
-      <p className="launch-status wrap">{status}</p>
       <nav id={menuId} className={open ? 'mobile-nav is-open' : 'mobile-nav'} aria-label="Primary mobile" hidden={!open}>
         {navItems.map((item) => (
             <NavLink key={item.to} to={item.to} end={item.end} className="nav-link" onClick={() => setOpenPath(null)}>

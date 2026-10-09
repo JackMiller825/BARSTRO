@@ -245,14 +245,6 @@ main:focus-visible {
   cursor: pointer;
 }
 
-.launch-status {
-  margin-block: 0;
-  padding-bottom: 12px;
-  color: var(--muted);
-  font-size: 14px;
-  font-weight: 600;
-}
-
 .mobile-nav {
   display: none;
   gap: 8px;
@@ -558,8 +550,7 @@ main:focus-visible {
 .live-status,
 .fine,
 .label,
-.footer-meta,
-.launch-status {
+.footer-meta {
   font-size: 14px;
 }
 

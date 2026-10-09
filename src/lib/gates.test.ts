@@ -85,7 +85,7 @@ describe('shipped configuration', () => {
     assert.equal(displayFact(project.sellTax), '0%');
     assert.equal(displayFact(project.liquidityStatus), 'Burn');
     assert.equal(displayFact(project.ownershipStatus), 'Renounce');
-    assert.equal(safeUrl(project.officialXUrl), 'https://x.com/bastro_eth');
+    assert.equal(safeUrl(project.officialXUrl), 'https://x.com/barstro_eth');
     assert.equal(safeUrl(project.officialTelegramUrl), 'https://t.me/Barstro');
     assert.equal(safeUrl(project.officialSwapUrl), null);
     assert.equal(safeUrl(project.officialChartUrl), null);

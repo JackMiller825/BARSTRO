@@ -13,7 +13,7 @@ export const project = {
   liquidityStatus: 'Burn',
   ownershipStatus: 'Renounce',
   tokenomics: null,
-  officialXUrl: 'https://x.com/bastro_eth',
+  officialXUrl: 'https://x.com/barstro_eth',
   officialTelegramUrl: 'https://t.me/Barstro',
   officialSwapUrl: null,
   officialChartUrl: null,
