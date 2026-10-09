@@ -1,0 +1,768 @@
+{
+  "branding/barstro-logo-transparent.png": {
+    "width": 1024,
+    "height": 1024,
+    "avif": [
+      {
+        "file": "branding/barstro-logo-transparent-192.avif",
+        "width": 192
+      },
+      {
+        "file": "branding/barstro-logo-transparent-512.avif",
+        "width": 512
+      },
+      {
+        "file": "branding/barstro-logo-transparent-768.avif",
+        "width": 768
+      },
+      {
+        "file": "branding/barstro-logo-transparent.avif",
+        "width": 1024
+      }
+    ],
+    "webp": [
+      {
+        "file": "branding/barstro-logo-transparent-192.webp",
+        "width": 192
+      },
+      {
+        "file": "branding/barstro-logo-transparent-512.webp",
+        "width": 512
+      },
+      {
+        "file": "branding/barstro-logo-transparent-768.webp",
+        "width": 768
+      },
+      {
+        "file": "branding/barstro-logo-transparent.webp",
+        "width": 1024
+      }
+    ]
+  },
+  "social/barstro-banner-1100x520.png": {
+    "width": 1100,
+    "height": 520,
+    "avif": [
+      {
+        "file": "social/barstro-banner-1100x520-192.avif",
+        "width": 192
+      },
+      {
+        "file": "social/barstro-banner-1100x520-512.avif",
+        "width": 512
+      },
+      {
+        "file": "social/barstro-banner-1100x520-768.avif",
+        "width": 768
+      },
+      {
+        "file": "social/barstro-banner-1100x520.avif",
+        "width": 1100
+      }
+    ],
+    "webp": [
+      {
+        "file": "social/barstro-banner-1100x520-192.webp",
+        "width": 192
+      },
+      {
+        "file": "social/barstro-banner-1100x520-512.webp",
+        "width": 512
+      },
+      {
+        "file": "social/barstro-banner-1100x520-768.webp",
+        "width": 768
+      },
+      {
+        "file": "social/barstro-banner-1100x520.webp",
+        "width": 1100
+      }
+    ]
+  },
+  "social/barstro-banner-3to1.png": {
+    "width": 1500,
+    "height": 500,
+    "avif": [
+      {
+        "file": "social/barstro-banner-3to1-192.avif",
+        "width": 192
+      },
+      {
+        "file": "social/barstro-banner-3to1-512.avif",
+        "width": 512
+      },
+      {
+        "file": "social/barstro-banner-3to1-768.avif",
+        "width": 768
+      },
+      {
+        "file": "social/barstro-banner-3to1.avif",
+        "width": 1500
+      }
+    ],
+    "webp": [
+      {
+        "file": "social/barstro-banner-3to1-192.webp",
+        "width": 192
+      },
+      {
+        "file": "social/barstro-banner-3to1-512.webp",
+        "width": 512
+      },
+      {
+        "file": "social/barstro-banner-3to1-768.webp",
+        "width": 768
+      },
+      {
+        "file": "social/barstro-banner-3to1.webp",
+        "width": 1500
+      }
+    ]
+  },
+  "social/barstro-social-share-1200x630.png": {
+    "width": 1200,
+    "height": 630,
+    "avif": [
+      {
+        "file": "social/barstro-social-share-1200x630-192.avif",
+        "width": 192
+      },
+      {
+        "file": "social/barstro-social-share-1200x630-512.avif",
+        "width": 512
+      },
+      {
+        "file": "social/barstro-social-share-1200x630-768.avif",
+        "width": 768
+      },
+      {
+        "file": "social/barstro-social-share-1200x630.avif",
+        "width": 1200
+      }
+    ],
+    "webp": [
+      {
+        "file": "social/barstro-social-share-1200x630-192.webp",
+        "width": 192
+      },
+      {
+        "file": "social/barstro-social-share-1200x630-512.webp",
+        "width": 512
+      },
+      {
+        "file": "social/barstro-social-share-1200x630-768.webp",
+        "width": 768
+      },
+      {
+        "file": "social/barstro-social-share-1200x630.webp",
+        "width": 1200
+      }
+    ]
+  },
+  "website/barstro-apple-touch-icon.png": {
+    "width": 180,
+    "height": 180,
+    "avif": [],
+    "webp": []
+  },
+  "website/barstro-buy-guide-character-transparent.png": {
+    "width": 1024,
+    "height": 1024,
+    "avif": [
+      {
+        "file": "website/barstro-buy-guide-character-transparent-192.avif",
+        "width": 192
+      },
+      {
+        "file": "website/barstro-buy-guide-character-transparent-512.avif",
+        "width": 512
+      },
+      {
+        "file": "website/barstro-buy-guide-character-transparent-768.avif",
+        "width": 768
+      },
+      {
+        "file": "website/barstro-buy-guide-character-transparent.avif",
+        "width": 1024
+      }
+    ],
+    "webp": [
+      {
+        "file": "website/barstro-buy-guide-character-transparent-192.webp",
+        "width": 192
+      },
+      {
+        "file": "website/barstro-buy-guide-character-transparent-512.webp",
+        "width": 512
+      },
+      {
+        "file": "website/barstro-buy-guide-character-transparent-768.webp",
+        "width": 768
+      },
+      {
+        "file": "website/barstro-buy-guide-character-transparent.webp",
+        "width": 1024
+      }
+    ]
+  },
+  "website/barstro-community-character-transparent.png": {
+    "width": 1024,
+    "height": 1024,
+    "avif": [
+      {
+        "file": "website/barstro-community-character-transparent-192.avif",
+        "width": 192
+      },
+      {
+        "file": "website/barstro-community-character-transparent-512.avif",
+        "width": 512
+      },
+      {
+        "file": "website/barstro-community-character-transparent-768.avif",
+        "width": 768
+      },
+      {
+        "file": "website/barstro-community-character-transparent.avif",
+        "width": 1024
+      }
+    ],
+    "webp": [
+      {
+        "file": "website/barstro-community-character-transparent-192.webp",
+        "width": 192
+      },
+      {
+        "file": "website/barstro-community-character-transparent-512.webp",
+        "width": 512
+      },
+      {
+        "file": "website/barstro-community-character-transparent-768.webp",
+        "width": 768
+      },
+      {
+        "file": "website/barstro-community-character-transparent.webp",
+        "width": 1024
+      }
+    ]
+  },
+  "website/barstro-favicon-16.png": {
+    "width": 16,
+    "height": 16,
+    "avif": [],
+    "webp": []
+  },
+  "website/barstro-favicon-192.png": {
+    "width": 192,
+    "height": 192,
+    "avif": [],
+    "webp": []
+  },
+  "website/barstro-favicon-32.png": {
+    "width": 32,
+    "height": 32,
+    "avif": [],
+    "webp": []
+  },
+  "website/barstro-favicon-48.png": {
+    "width": 48,
+    "height": 48,
+    "avif": [],
+    "webp": []
+  },
+  "website/barstro-favicon-512.png": {
+    "width": 512,
+    "height": 512,
+    "avif": [
+      {
+        "file": "website/barstro-favicon-512-192.avif",
+        "width": 192
+      },
+      {
+        "file": "website/barstro-favicon-512.avif",
+        "width": 512
+      }
+    ],
+    "webp": [
+      {
+        "file": "website/barstro-favicon-512-192.webp",
+        "width": 192
+      },
+      {
+        "file": "website/barstro-favicon-512.webp",
+        "width": 512
+      }
+    ]
+  },
+  "website/barstro-hero-character-transparent.png": {
+    "width": 1024,
+    "height": 1024,
+    "avif": [
+      {
+        "file": "website/barstro-hero-character-transparent-192.avif",
+        "width": 192
+      },
+      {
+        "file": "website/barstro-hero-character-transparent-512.avif",
+        "width": 512
+      },
+      {
+        "file": "website/barstro-hero-character-transparent-768.avif",
+        "width": 768
+      },
+      {
+        "file": "website/barstro-hero-character-transparent.avif",
+        "width": 1024
+      }
+    ],
+    "webp": [
+      {
+        "file": "website/barstro-hero-character-transparent-192.webp",
+        "width": 192
+      },
+      {
+        "file": "website/barstro-hero-character-transparent-512.webp",
+        "width": 512
+      },
+      {
+        "file": "website/barstro-hero-character-transparent-768.webp",
+        "width": 768
+      },
+      {
+        "file": "website/barstro-hero-character-transparent.webp",
+        "width": 1024
+      }
+    ]
+  },
+  "website/barstro-lunar-foreground-transparent.png": {
+    "width": 2172,
+    "height": 724,
+    "avif": [
+      {
+        "file": "website/barstro-lunar-foreground-transparent-192.avif",
+        "width": 192
+      },
+      {
+        "file": "website/barstro-lunar-foreground-transparent-512.avif",
+        "width": 512
+      },
+      {
+        "file": "website/barstro-lunar-foreground-transparent-768.avif",
+        "width": 768
+      },
+      {
+        "file": "website/barstro-lunar-foreground-transparent.avif",
+        "width": 2172
+      }
+    ],
+    "webp": [
+      {
+        "file": "website/barstro-lunar-foreground-transparent-192.webp",
+        "width": 192
+      },
+      {
+        "file": "website/barstro-lunar-foreground-transparent-512.webp",
+        "width": 512
+      },
+      {
+        "file": "website/barstro-lunar-foreground-transparent-768.webp",
+        "width": 768
+      },
+      {
+        "file": "website/barstro-lunar-foreground-transparent.webp",
+        "width": 2172
+      }
+    ]
+  },
+  "website/barstro-mission-caption-control.png": {
+    "width": 1448,
+    "height": 1086,
+    "avif": [
+      {
+        "file": "website/barstro-mission-caption-control-192.avif",
+        "width": 192
+      },
+      {
+        "file": "website/barstro-mission-caption-control-512.avif",
+        "width": 512
+      },
+      {
+        "file": "website/barstro-mission-caption-control-768.avif",
+        "width": 768
+      },
+      {
+        "file": "website/barstro-mission-caption-control.avif",
+        "width": 1448
+      }
+    ],
+    "webp": [
+      {
+        "file": "website/barstro-mission-caption-control-192.webp",
+        "width": 192
+      },
+      {
+        "file": "website/barstro-mission-caption-control-512.webp",
+        "width": 512
+      },
+      {
+        "file": "website/barstro-mission-caption-control-768.webp",
+        "width": 768
+      },
+      {
+        "file": "website/barstro-mission-caption-control.webp",
+        "width": 1448
+      }
+    ]
+  },
+  "website/barstro-mission-dead-zone-diaries.png": {
+    "width": 1448,
+    "height": 1086,
+    "avif": [
+      {
+        "file": "website/barstro-mission-dead-zone-diaries-192.avif",
+        "width": 192
+      },
+      {
+        "file": "website/barstro-mission-dead-zone-diaries-512.avif",
+        "width": 512
+      },
+      {
+        "file": "website/barstro-mission-dead-zone-diaries-768.avif",
+        "width": 768
+      },
+      {
+        "file": "website/barstro-mission-dead-zone-diaries.avif",
+        "width": 1448
+      }
+    ],
+    "webp": [
+      {
+        "file": "website/barstro-mission-dead-zone-diaries-192.webp",
+        "width": 192
+      },
+      {
+        "file": "website/barstro-mission-dead-zone-diaries-512.webp",
+        "width": 512
+      },
+      {
+        "file": "website/barstro-mission-dead-zone-diaries-768.webp",
+        "width": 768
+      },
+      {
+        "file": "website/barstro-mission-dead-zone-diaries.webp",
+        "width": 1448
+      }
+    ]
+  },
+  "website/barstro-mission-rescue-a-bar.png": {
+    "width": 1448,
+    "height": 1086,
+    "avif": [
+      {
+        "file": "website/barstro-mission-rescue-a-bar-192.avif",
+        "width": 192
+      },
+      {
+        "file": "website/barstro-mission-rescue-a-bar-512.avif",
+        "width": 512
+      },
+      {
+        "file": "website/barstro-mission-rescue-a-bar-768.avif",
+        "width": 768
+      },
+      {
+        "file": "website/barstro-mission-rescue-a-bar.avif",
+        "width": 1448
+      }
+    ],
+    "webp": [
+      {
+        "file": "website/barstro-mission-rescue-a-bar-192.webp",
+        "width": 192
+      },
+      {
+        "file": "website/barstro-mission-rescue-a-bar-512.webp",
+        "width": 512
+      },
+      {
+        "file": "website/barstro-mission-rescue-a-bar-768.webp",
+        "width": 768
+      },
+      {
+        "file": "website/barstro-mission-rescue-a-bar.webp",
+        "width": 1448
+      }
+    ]
+  },
+  "website/barstro-peeking-character-transparent.png": {
+    "width": 1024,
+    "height": 1024,
+    "avif": [
+      {
+        "file": "website/barstro-peeking-character-transparent-192.avif",
+        "width": 192
+      },
+      {
+        "file": "website/barstro-peeking-character-transparent-512.avif",
+        "width": 512
+      },
+      {
+        "file": "website/barstro-peeking-character-transparent-768.avif",
+        "width": 768
+      },
+      {
+        "file": "website/barstro-peeking-character-transparent.avif",
+        "width": 1024
+      }
+    ],
+    "webp": [
+      {
+        "file": "website/barstro-peeking-character-transparent-192.webp",
+        "width": 192
+      },
+      {
+        "file": "website/barstro-peeking-character-transparent-512.webp",
+        "width": 512
+      },
+      {
+        "file": "website/barstro-peeking-character-transparent-768.webp",
+        "width": 768
+      },
+      {
+        "file": "website/barstro-peeking-character-transparent.webp",
+        "width": 1024
+      }
+    ]
+  },
+  "website/barstro-space-background-desktop.png": {
+    "width": 1672,
+    "height": 941,
+    "avif": [
+      {
+        "file": "website/barstro-space-background-desktop-192.avif",
+        "width": 192
+      },
+      {
+        "file": "website/barstro-space-background-desktop-512.avif",
+        "width": 512
+      },
+      {
+        "file": "website/barstro-space-background-desktop-768.avif",
+        "width": 768
+      },
+      {
+        "file": "website/barstro-space-background-desktop.avif",
+        "width": 1672
+      }
+    ],
+    "webp": [
+      {
+        "file": "website/barstro-space-background-desktop-192.webp",
+        "width": 192
+      },
+      {
+        "file": "website/barstro-space-background-desktop-512.webp",
+        "width": 512
+      },
+      {
+        "file": "website/barstro-space-background-desktop-768.webp",
+        "width": 768
+      },
+      {
+        "file": "website/barstro-space-background-desktop.webp",
+        "width": 1672
+      }
+    ]
+  },
+  "website/barstro-space-background-mobile.png": {
+    "width": 529,
+    "height": 941,
+    "avif": [
+      {
+        "file": "website/barstro-space-background-mobile-192.avif",
+        "width": 192
+      },
+      {
+        "file": "website/barstro-space-background-mobile-512.avif",
+        "width": 512
+      },
+      {
+        "file": "website/barstro-space-background-mobile.avif",
+        "width": 529
+      }
+    ],
+    "webp": [
+      {
+        "file": "website/barstro-space-background-mobile-192.webp",
+        "width": 192
+      },
+      {
+        "file": "website/barstro-space-background-mobile-512.webp",
+        "width": 512
+      },
+      {
+        "file": "website/barstro-space-background-mobile.webp",
+        "width": 529
+      }
+    ]
+  },
+  "website/barstro-story-character-transparent.png": {
+    "width": 1024,
+    "height": 1024,
+    "avif": [
+      {
+        "file": "website/barstro-story-character-transparent-192.avif",
+        "width": 192
+      },
+      {
+        "file": "website/barstro-story-character-transparent-512.avif",
+        "width": 512
+      },
+      {
+        "file": "website/barstro-story-character-transparent-768.avif",
+        "width": 768
+      },
+      {
+        "file": "website/barstro-story-character-transparent.avif",
+        "width": 1024
+      }
+    ],
+    "webp": [
+      {
+        "file": "website/barstro-story-character-transparent-192.webp",
+        "width": 192
+      },
+      {
+        "file": "website/barstro-story-character-transparent-512.webp",
+        "width": 512
+      },
+      {
+        "file": "website/barstro-story-character-transparent-768.webp",
+        "width": 768
+      },
+      {
+        "file": "website/barstro-story-character-transparent.webp",
+        "width": 1024
+      }
+    ]
+  },
+  "website/barstro-story-panel-01-dead-zone.png": {
+    "width": 1024,
+    "height": 1024,
+    "avif": [
+      {
+        "file": "website/barstro-story-panel-01-dead-zone-192.avif",
+        "width": 192
+      },
+      {
+        "file": "website/barstro-story-panel-01-dead-zone-512.avif",
+        "width": 512
+      },
+      {
+        "file": "website/barstro-story-panel-01-dead-zone-768.avif",
+        "width": 768
+      },
+      {
+        "file": "website/barstro-story-panel-01-dead-zone.avif",
+        "width": 1024
+      }
+    ],
+    "webp": [
+      {
+        "file": "website/barstro-story-panel-01-dead-zone-192.webp",
+        "width": 192
+      },
+      {
+        "file": "website/barstro-story-panel-01-dead-zone-512.webp",
+        "width": 512
+      },
+      {
+        "file": "website/barstro-story-panel-01-dead-zone-768.webp",
+        "width": 768
+      },
+      {
+        "file": "website/barstro-story-panel-01-dead-zone.webp",
+        "width": 1024
+      }
+    ]
+  },
+  "website/barstro-story-panel-02-into-orbit.png": {
+    "width": 1024,
+    "height": 1024,
+    "avif": [
+      {
+        "file": "website/barstro-story-panel-02-into-orbit-192.avif",
+        "width": 192
+      },
+      {
+        "file": "website/barstro-story-panel-02-into-orbit-512.avif",
+        "width": 512
+      },
+      {
+        "file": "website/barstro-story-panel-02-into-orbit-768.avif",
+        "width": 768
+      },
+      {
+        "file": "website/barstro-story-panel-02-into-orbit.avif",
+        "width": 1024
+      }
+    ],
+    "webp": [
+      {
+        "file": "website/barstro-story-panel-02-into-orbit-192.webp",
+        "width": 192
+      },
+      {
+        "file": "website/barstro-story-panel-02-into-orbit-512.webp",
+        "width": 512
+      },
+      {
+        "file": "website/barstro-story-panel-02-into-orbit-768.webp",
+        "width": 768
+      },
+      {
+        "file": "website/barstro-story-panel-02-into-orbit.webp",
+        "width": 1024
+      }
+    ]
+  },
+  "website/barstro-story-panel-03-bars-rescued.png": {
+    "width": 1024,
+    "height": 1024,
+    "avif": [
+      {
+        "file": "website/barstro-story-panel-03-bars-rescued-192.avif",
+        "width": 192
+      },
+      {
+        "file": "website/barstro-story-panel-03-bars-rescued-512.avif",
+        "width": 512
+      },
+      {
+        "file": "website/barstro-story-panel-03-bars-rescued-768.avif",
+        "width": 768
+      },
+      {
+        "file": "website/barstro-story-panel-03-bars-rescued.avif",
+        "width": 1024
+      }
+    ],
+    "webp": [
+      {
+        "file": "website/barstro-story-panel-03-bars-rescued-192.webp",
+        "width": 192
+      },
+      {
+        "file": "website/barstro-story-panel-03-bars-rescued-512.webp",
+        "width": 512
+      },
+      {
+        "file": "website/barstro-story-panel-03-bars-rescued-768.webp",
+        "width": 768
+      },
+      {
+        "file": "website/barstro-story-panel-03-bars-rescued.webp",
+        "width": 1024
+      }
+    ]
+  }
+}

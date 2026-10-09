@@ -1,0 +1,95 @@
+{
+  "captures": [
+    {
+      "filename": "previews/v2/23-barstro-home-overview-desktop.png",
+      "width": 1440,
+      "height": 5136,
+      "renderer": "static HTML/CSS print render, not browser behavioral test"
+    },
+    {
+      "filename": "previews/v2/24-barstro-story-overview-desktop.png",
+      "width": 1440,
+      "height": 3225,
+      "renderer": "static HTML/CSS print render, not browser behavioral test"
+    },
+    {
+      "filename": "previews/v2/25-barstro-buy-overview-desktop.png",
+      "width": 1440,
+      "height": 4125,
+      "renderer": "static HTML/CSS print render, not browser behavioral test"
+    },
+    {
+      "filename": "previews/v2/26-barstro-community-overview-desktop.png",
+      "width": 1440,
+      "height": 3121,
+      "renderer": "static HTML/CSS print render, not browser behavioral test"
+    },
+    {
+      "filename": "previews/v2/27-barstro-home-overview-mobile.png",
+      "width": 390,
+      "height": 6423,
+      "renderer": "static HTML/CSS print render, not browser behavioral test"
+    },
+    {
+      "filename": "previews/v2/28-barstro-story-overview-mobile.png",
+      "width": 390,
+      "height": 5422,
+      "renderer": "static HTML/CSS print render, not browser behavioral test"
+    },
+    {
+      "filename": "previews/v2/29-barstro-buy-overview-mobile.png",
+      "width": 390,
+      "height": 5702,
+      "renderer": "static HTML/CSS print render, not browser behavioral test"
+    },
+    {
+      "filename": "previews/v2/30-barstro-community-overview-mobile.png",
+      "width": 390,
+      "height": 4745,
+      "renderer": "static HTML/CSS print render, not browser behavioral test"
+    },
+    {
+      "filename": "previews/v2/31-barstro-home-hero-mobile.png",
+      "width": 390,
+      "height": 913,
+      "renderer": "static HTML/CSS print render, not browser behavioral test"
+    },
+    {
+      "filename": "previews/v2/32-barstro-token-info-mobile.png",
+      "width": 390,
+      "height": 835,
+      "renderer": "static HTML/CSS print render, not browser behavioral test"
+    },
+    {
+      "filename": "previews/v2/33-barstro-story-comic-mobile.png",
+      "width": 390,
+      "height": 1985,
+      "renderer": "static HTML/CSS print render, not browser behavioral test"
+    },
+    {
+      "filename": "previews/v2/34-barstro-buy-steps-mobile.png",
+      "width": 390,
+      "height": 1431,
+      "renderer": "static HTML/CSS print render, not browser behavioral test"
+    },
+    {
+      "filename": "previews/v2/35-barstro-buy-checklist-mobile.png",
+      "width": 390,
+      "height": 1121,
+      "renderer": "static HTML/CSS print render, not browser behavioral test"
+    },
+    {
+      "filename": "previews/v2/36-barstro-community-missions-mobile.png",
+      "width": 390,
+      "height": 2054,
+      "renderer": "static HTML/CSS print render, not browser behavioral test"
+    },
+    {
+      "filename": "previews/v2/37-barstro-interaction-states-desktop.png",
+      "width": 1440,
+      "height": 1178,
+      "renderer": "static HTML/CSS print render, not browser behavioral test"
+    }
+  ],
+  "limitations": "These are static design mockups. Browser runtime was unavailable; interactive behavior and browser responsive tests remain build acceptance tasks."
+}

@@ -1,0 +1,13 @@
+Name: Barstronaut
+Ticker: $BARSTRO
+Intended network: Ethereum Mainnet. Deployment is not confirmed.
+Hook: Your missing signal bars became astronauts.
+Meaning: Signal bars + astronaut. A tiny fictional explorer rescues lost reception.
+Mascot: warm peach face, large brown eyes, violet bubble helmet, off-white padded suit, purple gloves/boots, five electric-lime reception bars. Polished 3D clay/vinyl style.
+Independent fictional project. No affiliation or endorsement by SpaceX, Starlink, Elon Musk, Grain Management, or any space agency.
+Contract: [CONTRACT_ADDRESS]
+Tokenomics: [TOKENOMICS]
+Official X: [OFFICIAL_X_URL]
+Official Telegram: [OFFICIAL_TELEGRAM_URL]
+No claims of deployed contract, liquidity burn/lock, renunciation, audits, holders, returns, or audience size are supplied.
+The supplied October 8 spectrum-news catalyst is background to the creative brief, not evidence of project endorsement. It has not been independently verified in this package and is omitted from visitor-facing copy.

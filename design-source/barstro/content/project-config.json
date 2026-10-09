@@ -1,0 +1,16 @@
+{
+  "name": "Barstronaut",
+  "ticker": "$BARSTRO",
+  "intendedChainId": 1,
+  "launchConfirmed": false,
+  "contractAddress": null,
+  "totalSupply": null,
+  "buyTax": null,
+  "sellTax": null,
+  "liquidityStatus": null,
+  "ownershipStatus": null,
+  "tokenomics": null,
+  "officialXUrl": null,
+  "officialTelegramUrl": null,
+  "officialSwapUrl": null
+}

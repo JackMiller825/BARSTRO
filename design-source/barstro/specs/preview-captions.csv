@@ -1,0 +1,41 @@
+number,path,version,caption,implementation
+1,previews/v1/01-barstro-home-overview-desktop.png,v1,DESIGN MOCKUP —  home overview desktop,Static composition; behavior requires implementation per design-guide.md
+2,previews/v1/02-barstro-home-hero-desktop.png,v1,DESIGN MOCKUP —  home hero desktop,Static composition; behavior requires implementation per design-guide.md
+3,previews/v1/03-barstro-home-story-desktop.png,v1,DESIGN MOCKUP —  home story desktop,Static composition; behavior requires implementation per design-guide.md
+4,previews/v1/04-barstro-shared-token-info-desktop.png,v1,DESIGN MOCKUP —  shared token info desktop,Static composition; behavior requires implementation per design-guide.md
+5,previews/v1/05-barstro-shared-how-to-buy-desktop.png,v1,DESIGN MOCKUP —  shared how to buy desktop,Static composition; behavior requires implementation per design-guide.md
+6,previews/v1/06-barstro-shared-community-desktop.png,v1,DESIGN MOCKUP —  shared community desktop,Static composition; behavior requires implementation per design-guide.md
+7,previews/v1/07-barstro-shared-faq-desktop.png,v1,DESIGN MOCKUP —  shared faq desktop,Static composition; behavior requires implementation per design-guide.md
+8,previews/v1/08-barstro-story-overview-desktop.png,v1,DESIGN MOCKUP —  story overview desktop,Static composition; behavior requires implementation per design-guide.md
+9,previews/v1/09-barstro-story-intro-desktop.png,v1,DESIGN MOCKUP —  story intro desktop,Static composition; behavior requires implementation per design-guide.md
+10,previews/v1/10-barstro-story-comic-desktop.png,v1,DESIGN MOCKUP —  story comic desktop,Static composition; behavior requires implementation per design-guide.md
+11,previews/v1/11-barstro-story-mission-log-desktop.png,v1,DESIGN MOCKUP —  story mission log desktop,Static composition; behavior requires implementation per design-guide.md
+12,previews/v1/12-barstro-buy-overview-desktop.png,v1,DESIGN MOCKUP —  buy overview desktop,Static composition; behavior requires implementation per design-guide.md
+13,previews/v1/13-barstro-buy-intro-desktop.png,v1,DESIGN MOCKUP —  buy intro desktop,Static composition; behavior requires implementation per design-guide.md
+14,previews/v1/14-barstro-buy-checklist-desktop.png,v1,DESIGN MOCKUP —  buy checklist desktop,Static composition; behavior requires implementation per design-guide.md
+15,previews/v1/15-barstro-community-overview-desktop.png,v1,DESIGN MOCKUP —  community overview desktop,Static composition; behavior requires implementation per design-guide.md
+16,previews/v1/16-barstro-community-missions-desktop.png,v1,DESIGN MOCKUP —  community missions desktop,Static composition; behavior requires implementation per design-guide.md
+17,previews/v1/17-barstro-shared-navigation-desktop-mobile.png,v1,DESIGN MOCKUP —  shared navigation desktop mobile,Static composition; behavior requires implementation per design-guide.md
+18,previews/v1/18-barstro-shared-footer-desktop-mobile.png,v1,DESIGN MOCKUP —  shared footer desktop mobile,Static composition; behavior requires implementation per design-guide.md
+19,previews/v1/19-barstro-home-overview-mobile.png,v1,DESIGN MOCKUP —  home overview mobile,Static composition; behavior requires implementation per design-guide.md
+20,previews/v1/20-barstro-story-overview-mobile.png,v1,DESIGN MOCKUP —  story overview mobile,Static composition; behavior requires implementation per design-guide.md
+21,previews/v1/21-barstro-buy-overview-mobile.png,v1,DESIGN MOCKUP —  buy overview mobile,Static composition; behavior requires implementation per design-guide.md
+22,previews/v1/22-barstro-community-overview-mobile.png,v1,DESIGN MOCKUP —  community overview mobile,Static composition; behavior requires implementation per design-guide.md
+23,previews/v2/23-barstro-home-overview-desktop.png,v2,DESIGN MOCKUP —  home overview desktop,Static composition; behavior requires implementation per design-guide.md
+24,previews/v2/24-barstro-story-overview-desktop.png,v2,DESIGN MOCKUP —  story overview desktop,Static composition; behavior requires implementation per design-guide.md
+25,previews/v2/25-barstro-buy-overview-desktop.png,v2,DESIGN MOCKUP —  buy overview desktop,Static composition; behavior requires implementation per design-guide.md
+26,previews/v2/26-barstro-community-overview-desktop.png,v2,DESIGN MOCKUP —  community overview desktop,Static composition; behavior requires implementation per design-guide.md
+27,previews/v2/27-barstro-home-overview-mobile.png,v2,DESIGN MOCKUP —  home overview mobile,Static composition; behavior requires implementation per design-guide.md
+28,previews/v2/28-barstro-story-overview-mobile.png,v2,DESIGN MOCKUP —  story overview mobile,Static composition; behavior requires implementation per design-guide.md
+29,previews/v2/29-barstro-buy-overview-mobile.png,v2,DESIGN MOCKUP —  buy overview mobile,Static composition; behavior requires implementation per design-guide.md
+30,previews/v2/30-barstro-community-overview-mobile.png,v2,DESIGN MOCKUP —  community overview mobile,Static composition; behavior requires implementation per design-guide.md
+31,previews/v2/31-barstro-home-hero-mobile.png,v2,DESIGN MOCKUP —  home hero mobile,Static composition; behavior requires implementation per design-guide.md
+32,previews/v2/32-barstro-token-info-mobile.png,v2,DESIGN MOCKUP —  token info mobile,Static composition; behavior requires implementation per design-guide.md
+33,previews/v2/33-barstro-story-comic-mobile.png,v2,DESIGN MOCKUP —  story comic mobile,Static composition; behavior requires implementation per design-guide.md
+34,previews/v2/34-barstro-buy-steps-mobile.png,v2,DESIGN MOCKUP —  buy steps mobile,Static composition; behavior requires implementation per design-guide.md
+35,previews/v2/35-barstro-buy-checklist-mobile.png,v2,DESIGN MOCKUP —  buy checklist mobile,Static composition; behavior requires implementation per design-guide.md
+36,previews/v2/36-barstro-community-missions-mobile.png,v2,DESIGN MOCKUP —  community missions mobile,Static composition; behavior requires implementation per design-guide.md
+37,previews/v2/37-barstro-interaction-states-desktop.png,v2,DESIGN MOCKUP —  interaction states desktop,Static composition; behavior requires implementation per design-guide.md
+38,previews/v2/38-barstro-desktop-review-board.png,v2,DESIGN MOCKUP —  desktop review board,Static composition; behavior requires implementation per design-guide.md
+39,previews/v2/39-barstro-mobile-review-board.png,v2,DESIGN MOCKUP —  mobile review board,Static composition; behavior requires implementation per design-guide.md
+40,previews/v2/40-barstro-production-art-board.png,v2,DESIGN MOCKUP —  production art board,Static composition; behavior requires implementation per design-guide.md

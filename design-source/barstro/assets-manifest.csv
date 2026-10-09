@@ -1,0 +1,98 @@
+path,category,purpose,page_section,dimensions,format,transparency,approval_version_status
+README.md,README.md,README,Home / shared,,md,not applicable,current specification / content
+brand-info.txt,brand-info.txt,brand info,Home / shared,,txt,not applicable,current specification / content
+branding/barstro-logo-transparent.png,branding,barstro logo transparent,All,1024x1024,png,real alpha,approved supplied asset; preserved
+content/project-config.json,content,project config,All,,json,not applicable,current specification / content
+content/website-copy.md,content,website copy,All,,md,not applicable,current specification / content
+previews/v1/01-barstro-home-overview-desktop.png,previews,01 barstro home overview desktop,Home / shared,793x1983,png,opaque,existing supplied design mockup v1
+previews/v1/02-barstro-home-hero-desktop.png,previews,02 barstro home hero desktop,Home / shared,1586x992,png,opaque,existing supplied design mockup v1
+previews/v1/03-barstro-home-story-desktop.png,previews,03 barstro home story desktop,Story,1586x992,png,opaque,existing supplied design mockup v1
+previews/v1/04-barstro-shared-token-info-desktop.png,previews,04 barstro shared token info desktop,Home / shared,1586x992,png,opaque,existing supplied design mockup v1
+previews/v1/05-barstro-shared-how-to-buy-desktop.png,previews,05 barstro shared how to buy desktop,Buy,1586x992,png,opaque,existing supplied design mockup v1
+previews/v1/06-barstro-shared-community-desktop.png,previews,06 barstro shared community desktop,Community,1586x992,png,opaque,existing supplied design mockup v1
+previews/v1/07-barstro-shared-faq-desktop.png,previews,07 barstro shared faq desktop,Home / shared,1586x992,png,opaque,existing supplied design mockup v1
+previews/v1/08-barstro-story-overview-desktop.png,previews,08 barstro story overview desktop,Story,870x1808,png,opaque,existing supplied design mockup v1
+previews/v1/09-barstro-story-intro-desktop.png,previews,09 barstro story intro desktop,Story,1586x992,png,opaque,existing supplied design mockup v1
+previews/v1/10-barstro-story-comic-desktop.png,previews,10 barstro story comic desktop,Story,1605x980,png,opaque,existing supplied design mockup v1
+previews/v1/11-barstro-story-mission-log-desktop.png,previews,11 barstro story mission log desktop,Story,1586x992,png,opaque,existing supplied design mockup v1
+previews/v1/12-barstro-buy-overview-desktop.png,previews,12 barstro buy overview desktop,Buy,841x1870,png,opaque,existing supplied design mockup v1
+previews/v1/13-barstro-buy-intro-desktop.png,previews,13 barstro buy intro desktop,Buy,1586x992,png,opaque,existing supplied design mockup v1
+previews/v1/14-barstro-buy-checklist-desktop.png,previews,14 barstro buy checklist desktop,Buy,1586x992,png,opaque,existing supplied design mockup v1
+previews/v1/15-barstro-community-overview-desktop.png,previews,15 barstro community overview desktop,Community,900x1748,png,opaque,existing supplied design mockup v1
+previews/v1/16-barstro-community-missions-desktop.png,previews,16 barstro community missions desktop,Community,1605x980,png,opaque,existing supplied design mockup v1
+previews/v1/17-barstro-shared-navigation-desktop-mobile.png,previews,17 barstro shared navigation desktop mobile,Home / shared,1536x1024,png,opaque,existing supplied design mockup v1
+previews/v1/18-barstro-shared-footer-desktop-mobile.png,previews,18 barstro shared footer desktop mobile,Home / shared,1536x1024,png,opaque,existing supplied design mockup v1
+previews/v1/19-barstro-home-overview-mobile.png,previews,19 barstro home overview mobile,Home / shared,1254x1254,png,opaque,existing supplied design mockup v1
+previews/v1/20-barstro-story-overview-mobile.png,previews,20 barstro story overview mobile,Story,1254x1254,png,opaque,existing supplied design mockup v1
+previews/v1/21-barstro-buy-overview-mobile.png,previews,21 barstro buy overview mobile,Buy,1254x1254,png,opaque,existing supplied design mockup v1
+previews/v1/22-barstro-community-overview-mobile.png,previews,22 barstro community overview mobile,Community,1254x1254,png,opaque,existing supplied design mockup v1
+previews/v2/23-barstro-home-overview-desktop.png,previews,23 barstro home overview desktop,Home / shared,1440x5136,png,opaque,current design mockup v2
+previews/v2/24-barstro-story-overview-desktop.png,previews,24 barstro story overview desktop,Story,1440x3225,png,opaque,current design mockup v2
+previews/v2/25-barstro-buy-overview-desktop.png,previews,25 barstro buy overview desktop,Buy,1440x4125,png,opaque,current design mockup v2
+previews/v2/26-barstro-community-overview-desktop.png,previews,26 barstro community overview desktop,Community,1440x3121,png,opaque,current design mockup v2
+previews/v2/27-barstro-home-overview-mobile.png,previews,27 barstro home overview mobile,Home / shared,390x6423,png,opaque,current design mockup v2
+previews/v2/28-barstro-story-overview-mobile.png,previews,28 barstro story overview mobile,Story,390x5422,png,opaque,current design mockup v2
+previews/v2/29-barstro-buy-overview-mobile.png,previews,29 barstro buy overview mobile,Buy,390x5702,png,opaque,current design mockup v2
+previews/v2/30-barstro-community-overview-mobile.png,previews,30 barstro community overview mobile,Community,390x4745,png,opaque,current design mockup v2
+previews/v2/31-barstro-home-hero-mobile.png,previews,31 barstro home hero mobile,Home / shared,390x913,png,opaque,current design mockup v2
+previews/v2/32-barstro-token-info-mobile.png,previews,32 barstro token info mobile,Home / shared,390x835,png,opaque,current design mockup v2
+previews/v2/33-barstro-story-comic-mobile.png,previews,33 barstro story comic mobile,Story,390x1985,png,opaque,current design mockup v2
+previews/v2/34-barstro-buy-steps-mobile.png,previews,34 barstro buy steps mobile,Buy,390x1431,png,opaque,current design mockup v2
+previews/v2/35-barstro-buy-checklist-mobile.png,previews,35 barstro buy checklist mobile,Buy,390x1121,png,opaque,current design mockup v2
+previews/v2/36-barstro-community-missions-mobile.png,previews,36 barstro community missions mobile,Community,390x2054,png,opaque,current design mockup v2
+previews/v2/37-barstro-interaction-states-desktop.png,previews,37 barstro interaction states desktop,Home / shared,1440x1178,png,opaque,current design mockup v2
+previews/v2/38-barstro-desktop-review-board.png,previews,38 barstro desktop review board,Home / shared,1720x1800,png,opaque,current design mockup v2
+previews/v2/39-barstro-mobile-review-board.png,previews,39 barstro mobile review board,Home / shared,1320x2500,png,opaque,current design mockup v2
+previews/v2/40-barstro-production-art-board.png,previews,40 barstro production art board,Home / shared,1600x960,png,opaque,current design mockup v2
+social/barstro-banner-1100x520.png,social,barstro banner 1100x520,Social,1100x520,png,opaque,approved supplied asset; preserved
+social/barstro-banner-3to1.png,social,barstro banner 3to1,Social,1500x500,png,opaque,approved supplied asset; preserved
+social/barstro-social-share-1200x630.png,social,barstro social share 1200x630,Social,1200x630,png,opaque,current proposed production v2
+specs/buy.html,specs,buy,All,,html,not applicable,current specification / content
+specs/capture-report.json,specs,capture report,All,,json,not applicable,current specification / content
+specs/community.html,specs,community,All,,html,not applicable,current specification / content
+specs/design-guide.md,specs,design guide,All,,md,not applicable,current specification / content
+specs/home.html,specs,home,All,,html,not applicable,current specification / content
+specs/implementation-checklist.md,specs,implementation checklist,All,,md,not applicable,current specification / content
+specs/page-and-asset-map.md,specs,page and asset map,All,,md,not applicable,current specification / content
+specs/preview-captions.csv,specs,preview captions,All,,csv,not applicable,current specification / content
+specs/reference-review.md,specs,reference review,All,,md,not applicable,current specification / content
+specs/social-share.html,specs,social share,All,,html,not applicable,current specification / content
+specs/states.html,specs,states,All,,html,not applicable,current specification / content
+specs/story.html,specs,story,All,,html,not applicable,current specification / content
+specs/v1-design-brief.md,specs,v1 design brief,All,,md,not applicable,current specification / content
+specs/v1-final-asset-plan.csv,specs,v1 final asset plan,All,,csv,not applicable,current specification / content
+specs/v1-generation-prompts.md,specs,v1 generation prompts,All,,md,not applicable,current specification / content
+specs/v1-preview-map.csv,specs,v1 preview map,All,,csv,not applicable,current specification / content
+specs/verification-report.json,specs,verification report,All,,json,not applicable,current specification / content
+website/barstro-apple-touch-icon.png,website,barstro apple touch icon,Home / shared,180x180,png,opaque,current proposed production v2
+website/barstro-buy-guide-character-transparent.png,website,barstro buy guide character transparent,Buy,1024x1024,png,real alpha,current proposed production v2
+website/barstro-community-character-transparent.png,website,barstro community character transparent,Community,1024x1024,png,real alpha,reused inspected existing Barstronaut pose
+website/barstro-favicon-16.png,website,barstro favicon 16,All,16x16,png,real alpha,current proposed production v2
+website/barstro-favicon-192.png,website,barstro favicon 192,All,192x192,png,real alpha,current proposed production v2
+website/barstro-favicon-32.png,website,barstro favicon 32,All,32x32,png,real alpha,current proposed production v2
+website/barstro-favicon-48.png,website,barstro favicon 48,All,48x48,png,real alpha,current proposed production v2
+website/barstro-favicon-512.png,website,barstro favicon 512,All,512x512,png,real alpha,current proposed production v2
+website/barstro-favicon.ico,website,barstro favicon,All,48x48,ico,real alpha,current proposed production v2
+website/barstro-hero-character-transparent.png,website,barstro hero character transparent,Home / shared,1024x1024,png,real alpha,reused inspected existing Barstronaut pose
+website/barstro-lunar-foreground-transparent.png,website,barstro lunar foreground transparent,Home / shared,2172x724,png,real alpha,current proposed production v2
+website/barstro-mission-caption-control.png,website,barstro mission caption control,Community,1448x1086,png,opaque,current proposed production v2
+website/barstro-mission-dead-zone-diaries.png,website,barstro mission dead zone diaries,Community,1448x1086,png,opaque,current proposed production v2
+website/barstro-mission-rescue-a-bar.png,website,barstro mission rescue a bar,Community,1448x1086,png,opaque,current proposed production v2
+website/barstro-peeking-character-transparent.png,website,barstro peeking character transparent,Home / shared,1024x1024,png,real alpha,reused inspected existing Barstronaut pose
+website/barstro-space-background-desktop.png,website,barstro space background desktop,Home / shared,1672x941,png,opaque,current proposed production v2
+website/barstro-space-background-mobile.png,website,barstro space background mobile,Home / shared,529x941,png,opaque,current proposed production v2
+website/barstro-story-character-transparent.png,website,barstro story character transparent,Story,1024x1024,png,real alpha,reused inspected existing Barstronaut pose
+website/barstro-story-panel-01-dead-zone.png,website,barstro story panel 01 dead zone,Story,1024x1024,png,opaque,current proposed production v2
+website/barstro-story-panel-02-into-orbit.png,website,barstro story panel 02 into orbit,Story,1024x1024,png,opaque,current proposed production v2
+website/barstro-story-panel-03-bars-rescued.png,website,barstro story panel 03 bars rescued,Story,1024x1024,png,opaque,current proposed production v2
+website/icons/barstro-arrow.svg,website,barstro arrow,All,scalable vector,svg,transparent SVG canvas,current proposed production v2
+website/icons/barstro-chevron.svg,website,barstro chevron,All,scalable vector,svg,transparent SVG canvas,current proposed production v2
+website/icons/barstro-close.svg,website,barstro close,All,scalable vector,svg,transparent SVG canvas,current proposed production v2
+website/icons/barstro-copy.svg,website,barstro copy,All,scalable vector,svg,transparent SVG canvas,current proposed production v2
+website/icons/barstro-eth.svg,website,barstro eth,All,scalable vector,svg,transparent SVG canvas,current proposed production v2
+website/icons/barstro-link.svg,website,barstro link,All,scalable vector,svg,transparent SVG canvas,current proposed production v2
+website/icons/barstro-menu.svg,website,barstro menu,All,scalable vector,svg,transparent SVG canvas,current proposed production v2
+website/icons/barstro-signal-bars.svg,website,barstro signal bars,All,scalable vector,svg,transparent SVG canvas,current proposed production v2
+website/icons/barstro-swap.svg,website,barstro swap,All,scalable vector,svg,transparent SVG canvas,current proposed production v2
+website/icons/barstro-wallet.svg,website,barstro wallet,All,scalable vector,svg,transparent SVG canvas,current proposed production v2
+assets-manifest.csv,manifest,Complete package inventory,All,,csv,not applicable,current inventory

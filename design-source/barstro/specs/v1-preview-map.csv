@@ -1,0 +1,23 @@
+number,filename,page,section,purpose,width_px,height_px,layout,status
+1,01-barstro-home-overview-desktop.png,Home,Full page,"Assess the full sequence, section balance, navigation and footer.",793,1983,Portrait 1440 x 3600,Complete
+2,02-barstro-home-hero-desktop.png,Home,Hero,"Assess the headline, mascot scale, two calls to action and signal-restoration interaction.",1586,992,Landscape 1600 x 1000,Complete
+3,03-barstro-home-story-desktop.png,Home,Origin teaser,Assess the five-second joke and the route into the full story.,1586,992,Landscape 1600 x 1000,Complete
+4,04-barstro-shared-token-info-desktop.png,Home + Buy,Token information,"Assess contract visibility, pending details and the disabled copy state.",1586,992,Landscape 1600 x 1000,Complete
+5,05-barstro-shared-how-to-buy-desktop.png,Home + Buy,Buying steps,Assess the numbered guidance and clear distinction between guide and live swap.,1586,992,Landscape 1600 x 1000,Complete
+6,06-barstro-shared-community-desktop.png,Home + Story + Community,Community hub,"Assess social destinations, mascot composition and honest pending-link states.",1586,992,Landscape 1600 x 1000,Complete
+7,07-barstro-shared-faq-desktop.png,Home + Buy + Community,FAQ,Assess readable questions and the expanded answer state.,1586,992,Landscape 1600 x 1000,Complete
+8,08-barstro-story-overview-desktop.png,Story,Full page,"Assess how the introduction, comic, mission log and community callout flow.",870,1808,Portrait 1440 x 3000,Complete
+9,09-barstro-story-intro-desktop.png,Story,Story introduction,"Assess the fictional origin framing, title and character composition.",1586,992,Landscape 1600 x 1000,Complete
+10,10-barstro-story-comic-desktop.png,Story,Three-panel comic,Assess whether the reception rescue reads without a long explanation.,1605,980,Landscape 1800 x 1100,Complete
+11,11-barstro-story-mission-log-desktop.png,Story,Mission log,Assess the playful log and how planned activities are distinguished from milestones.,1586,992,Landscape 1600 x 1000,Complete
+12,12-barstro-buy-overview-desktop.png,Buy,Full page,"Assess the guide introduction, token facts, buying steps, checklist and FAQ.",841,1870,Portrait 1440 x 3200,Complete
+13,13-barstro-buy-intro-desktop.png,Buy,Guide introduction,Assess mainnet labeling and the visible contract-pending state.,1586,992,Landscape 1600 x 1000,Complete
+14,14-barstro-buy-checklist-desktop.png,Buy,Transaction checklist,"Assess address, network and swap review guidance without a fake working transaction.",1586,992,Landscape 1600 x 1000,Complete
+15,15-barstro-community-overview-desktop.png,Community,Full page,"Assess social links, activity cards, FAQ and footer flow.",900,1748,Portrait 1440 x 2800,Complete
+16,16-barstro-community-missions-desktop.png,Community,Community activities,"Assess the three original, understandable meme activities.",1605,980,Landscape 1800 x 1100,Complete
+17,17-barstro-shared-navigation-desktop-mobile.png,All pages,Shared navigation,Assess desktop navigation and mobile closed/open menu states.,1536,1024,Landscape 1800 x 1200,Complete
+18,18-barstro-shared-footer-desktop-mobile.png,All pages,Shared footer,"Assess reusable footer hierarchy, links and the mobile stack.",1536,1024,Landscape 1800 x 1200,Complete
+19,19-barstro-home-overview-mobile.png,Home,Complete mobile scroll sequence,"Assess stacked content, touch-sized controls and readable contract placeholders.",1254,1254,Three flat mobile scroll slices on a 1800 x 1800 design board,Complete
+20,20-barstro-story-overview-mobile.png,Story,Complete mobile scroll sequence,Assess the comic's vertical order and a readable mission log.,1254,1254,Three flat mobile scroll slices on a 1800 x 1800 design board,Complete
+21,21-barstro-buy-overview-mobile.png,Buy,Complete mobile scroll sequence,Assess the full guide and checklist without horizontal overflow.,1254,1254,Three flat mobile scroll slices on a 1800 x 1800 design board,Complete
+22,22-barstro-community-overview-mobile.png,Community,Complete mobile scroll sequence,"Assess the stacked social cards, activities and FAQ.",1254,1254,Three flat mobile scroll slices on a 1800 x 1800 design board,Complete

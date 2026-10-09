@@ -1,0 +1,20 @@
+{
+  "name": "Barstronaut",
+  "short_name": "BARSTRO",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#140B28",
+  "theme_color": "#140B28",
+  "icons": [
+    {
+      "src": "/assets/website/barstro-favicon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/assets/website/barstro-favicon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
