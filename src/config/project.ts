@@ -6,7 +6,7 @@ export const project = {
   intendedChainId: 1,
   intendedNetwork: 'Ethereum Mainnet',
   launchConfirmed: false,
-  contractAddress: null,
+  contractAddress: '0x8c58abe623dcd8daeea8400a34384ef003c44ff9',
   totalSupply: '1,000,000,000',
   buyTax: '0%',
   sellTax: '0%',

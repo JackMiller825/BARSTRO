@@ -77,8 +77,9 @@ describe('https destinations', () => {
 describe('shipped configuration', () => {
   it('leaves launch facts pending and publishes the confirmed site URL', () => {
     assert.equal(project.launchConfirmed, false);
-    assert.equal(project.contractAddress, null);
-    assert.equal(canCopyAddress(project), false);
+    assert.equal(project.contractAddress, '0x8c58abe623dcd8daeea8400a34384ef003c44ff9');
+    assert.equal(canCopyAddress(project), true);
+    assert.equal(visibleContractAddress(project), '0x8c58abe623dcd8daeea8400a34384ef003c44ff9');
     assert.equal(canTrade(project), false);
     assert.equal(project.totalSupply, '1,000,000,000');
     assert.equal(displayFact(project.buyTax), '0%');
