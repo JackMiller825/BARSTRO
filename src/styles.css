@@ -308,6 +308,10 @@ main:focus-visible {
   font-size: 14px;
 }
 
+.copy-address {
+  min-width: 148px;
+}
+
 .btn:disabled {
   background: var(--disabled);
   color: var(--cream);

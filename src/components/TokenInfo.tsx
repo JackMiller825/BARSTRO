@@ -1,8 +1,9 @@
+import { useEffect, useRef, useState } from 'react';
 import { Link } from 'react-router-dom';
 import { project } from '../config/project.ts';
 import { alts } from '../content/website.ts';
-import { canCopyAddress, displayFact, visibleContractAddress } from '../lib/gates.ts';
-import { useCopyFeedback } from '../lib/useCopyFeedback.ts';
+import { displayFact, visibleContractAddress } from '../lib/gates.ts';
+import { copyText } from '../lib/useCopyFeedback.ts';
 import { SiteImage } from './SiteImage.tsx';
 
 type Props = {
@@ -11,8 +12,35 @@ type Props = {
 
 export function TokenInfo({ cta }: Props) {
   const address = visibleContractAddress(project);
-  const copyEnabled = canCopyAddress(project) && address !== null;
-  const { status, copy } = useCopyFeedback('Address copied', 'Copy failed — select the address to copy it.');
+  const addressText = address ?? 'Contract address pending';
+  const addressRef = useRef<HTMLParagraphElement>(null);
+  const resetTimer = useRef<number | null>(null);
+  const [copied, setCopied] = useState(false);
+  const [copyError, setCopyError] = useState('');
+
+  useEffect(() => {
+    return () => {
+      if (resetTimer.current !== null) window.clearTimeout(resetTimer.current);
+    };
+  }, []);
+
+  async function onCopy() {
+    const text = addressRef.current?.textContent?.trim() || addressText;
+    if (!text) return;
+    try {
+      await copyText(text, addressRef.current);
+      setCopyError('');
+      setCopied(true);
+      if (resetTimer.current !== null) window.clearTimeout(resetTimer.current);
+      resetTimer.current = window.setTimeout(() => {
+        setCopied(false);
+        resetTimer.current = null;
+      }, 2000);
+    } catch {
+      setCopied(false);
+      setCopyError('Copy failed — select the address to copy it.');
+    }
+  }
   const buyTax = displayFact(project.buyTax);
   const sellTax = displayFact(project.sellTax);
   const facts = [
@@ -30,21 +58,16 @@ export function TokenInfo({ cta }: Props) {
           <div className="contract">
             <div>
               <p className="label">Contract address</p>
-              <p className={address ? 'address' : 'address is-pending'}>{address ?? 'Contract address pending'}</p>
+              <p ref={addressRef} className={address ? 'address' : 'address is-pending'}>
+                {addressText}
+              </p>
             </div>
-            <button
-              type="button"
-              className="btn btn-secondary"
-              disabled={!copyEnabled}
-              onClick={() => {
-                if (copyEnabled && address) void copy(address);
-              }}
-            >
-              Copy address
+            <button type="button" className="btn btn-secondary copy-address" aria-live="polite" onClick={() => void onCopy()}>
+              {copied ? 'Copied' : 'Copy address'}
             </button>
           </div>
           <p className="live-status" aria-live="polite">
-            {status}
+            {copyError}
           </p>
           <div className="facts">
             {facts.map(([label, value]) => (
